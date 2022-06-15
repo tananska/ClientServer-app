@@ -1,0 +1,11 @@
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\BusinessLayer\obj\Debug\BusinessLayer.pdb

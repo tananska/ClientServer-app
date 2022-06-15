@@ -1,0 +1,18 @@
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\bin\Debug\Server.exe.config
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\bin\Debug\Server.exe
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\bin\Debug\Server.pdb
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\bin\Debug\BusinessLayer.dll
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\bin\Debug\BusinessLayer.pdb
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\obj\Debug\Server.exe
+C:\Users\Iva\Desktop\visual studio\IvaTananska12v13\Server\obj\Debug\Server.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\bin\Debug\Server.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\bin\Debug\Server.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\bin\Debug\Server.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\bin\Debug\BusinessLayer.dll
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\bin\Debug\BusinessLayer.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\obj\Debug\Server.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\IvaTananska12v13\Server\obj\Debug\Server.pdb
